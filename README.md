@@ -6,12 +6,13 @@ This snippet of code is a showcase on how a Perceptron works. In more details, T
 ## Usage
 Simply type 1s and 0s to insert new inputs to the program, like:  
 111011011101101110110...  
-Keys:  
+  
 ```
-n for reset
-e for exit
-1 for a green input (1)
-0 for a red input (-1)
+Control Keys:  
+    n for reset
+    e for exit
+    1 for a green input (1)
+    0 for a red input (-1)
 ```  
 
 ## Exploitation
