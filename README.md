@@ -8,10 +8,10 @@ Simply type 1s and 0s to insert new inputs into the program:
   
 
 Control Keys:  
-**    n for reset
-**    e for exit
-**    1 for a green input (1)
-**    0 for a red input (-1)
+*    n for reset
+*    e for exit
+*    1 for a green input (1)
+*    0 for a red input (-1)
   
 
 ![screenshot-of-the-program.jpg](https://raw.githubusercontent.com/Mamdasn/Perceptron-a-Showcase/main/assets/screenshot-of-the-program.jpg "screenshot-of-the-program.jpg")  
