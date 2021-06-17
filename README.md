@@ -5,7 +5,7 @@ This snippet of code is a showcase on how a Perceptron works. In more details, T
 ![screenshot-of-the-program.jpg](https://raw.githubusercontent.com/Mamdasn/Perceptron-a-Showcase/main/assets/screenshot-of-the-program.jpg "screenshot-of-the-program.jpg")  
 ## Usage
 Simply type 1s and 0s to insert new inputs into the program, like:  
-111011011101101110110...  
+`111011011101101110110...`  
   
 ```
 Control Keys:  
