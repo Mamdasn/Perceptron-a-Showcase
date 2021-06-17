@@ -7,7 +7,7 @@ Simply type 1s and 0s to insert new inputs into the program:
 `111011011101101110110...`  
   
 
-Control Keys:  
+Control Keys:
 *    n for reset
 *    e for exit
 *    1 for a green input (1)
