@@ -3,7 +3,7 @@ This snippet of code is a showcase on how a Perceptron works. In more details, T
 
 ## Usage
 Simply type 1s and 0s to insert new inputs into the program:  
-`111011011101101110110...`  
+`111011011101101110110111011...`  
   
 
 Control Keys:
