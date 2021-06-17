@@ -4,3 +4,9 @@ This snippet of code is a showcase on how a Perceptron works. In more details, T
 
 ![screenshot-of-the-program.jpg](https://raw.githubusercontent.com/Mamdasn/Perceptron-a-Showcase/main/assets/screenshot-of-the-program.jpg "screenshot-of-the-program.jpg")  
 
+## Usage
+Try your best to exploit the program.
+See if you can figure out these:
+* find a sequence in which the hit frequency is zero
+* produce a random sequence and try to have a hit frequency of under 50%
+* use a computer generated random sequence as the input and check if the hit frequency is about 50%
