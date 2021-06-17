@@ -4,7 +4,7 @@ This snippet of code is a showcase on how a Perceptron works. In more details, T
 
 ![screenshot-of-the-program.jpg](https://raw.githubusercontent.com/Mamdasn/Perceptron-a-Showcase/main/assets/screenshot-of-the-program.jpg "screenshot-of-the-program.jpg")  
 
-## Try-outs
+## Try outs
 Try your best to exploit the program.
 See if you can figure out these:
 * find a sequence in which the hit frequency is zero
