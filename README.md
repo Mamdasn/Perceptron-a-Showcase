@@ -6,7 +6,7 @@ This snippet of code is a showcase on how a Perceptron works. In more details, T
 
 ## Exploitation
 Try your best to exploit the program.
-See if you can figure out these:
+See if you can figure these out:
 * find a sequence in which the hit frequency is zero
 * produce a random sequence and try to have a hit frequency of under 50%
 * use a computer generated random sequence as the input and check if the hit frequency is about 50%
